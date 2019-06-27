@@ -1,3 +1,6 @@
 https://www.sitepoint.com/get-started-vuetify/
 
 
+Every language that we use has some form of package manager, either official or a 3rd party one. 
+PHP has Composer, Python has PyPi, Java has Gradle etc.
+
